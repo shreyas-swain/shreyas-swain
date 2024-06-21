@@ -4,6 +4,13 @@
 
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
 
+
+## 🌐 Socials:
+
+Feel free to reach out to me via email or connect with me on LinkedIn.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-swain/) 
+
+
 ## Projects
 
 ### Portfolio Website
@@ -24,20 +31,17 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools**: Git, Docker, Figma
 
-## Get in Touch
-
-Feel free to reach out to me via email or connect with me on LinkedIn.
-
-- **Email**: shreyas.swain07@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shreyas-swain/)
 
 ## Contributions
 
 I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
 
-## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&show_icons=true&theme=dark)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## Thanks for Visiting!
 
