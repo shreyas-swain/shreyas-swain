@@ -69,17 +69,17 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
                   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
               </div>
-
-
-## 🤝 Contributions :
-
-I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
-
+              
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+
+## 🤝 Contributions :
+
+I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
 
 
 ## 🙏 Thanks for Visiting!
