@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
-<br/>
+<br/><br/>
 
 
 ## 🌐 Socials :
@@ -11,7 +11,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-swain/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/_shreyas.swain_)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241484) 
-<br/>
+<br/><br/><br/>
 
 
 # 📂 Projects :
@@ -24,7 +24,7 @@ A personal portfolio website showcasing my work and skills.
 A fully functional social platform made with Next.js, Typescript and Socket.io which enable seamless real-time communication with various features.
 - **Tech Stack**: Next.js, Typescript, Socket.io, React, Postgresql, Shadcn-UI, Tailwind and Prisma
 - **Repository**: [Link to Repository](https://github.com/Shreyas-Swain-10/VoxHive.git)
-<br/>
+<br/><br/><br/>
 
 
 # 💻 Tech Stack :
@@ -68,7 +68,8 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
                   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
               </div>
-              
+<br/><br/><br/>
+
 
 ## 📊 GitHub Stats:
 <table style="border: none; border-collapse: collapse;">
@@ -84,6 +85,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
   </td-->
   </tr>
 </table>
+<br/><br/>
 
 
 ## 🤝 Contributions :
