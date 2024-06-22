@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
-<br>
+<br/>
 
 
 ## 🌐 Socials :
@@ -11,7 +11,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-swain/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/_shreyas.swain_)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241484) 
-<br>
+<br/>
 
 
 # 📂 Projects :
@@ -24,11 +24,10 @@ A personal portfolio website showcasing my work and skills.
 A fully functional social platform made with Next.js, Typescript and Socket.io which enable seamless real-time communication with various features.
 - **Tech Stack**: Next.js, Typescript, Socket.io, React, Postgresql, Shadcn-UI, Tailwind and Prisma
 - **Repository**: [Link to Repository](https://github.com/Shreyas-Swain-10/VoxHive.git)
-<br>
+<br/>
 
 
 # 💻 Tech Stack :
-
 - **Languages** :  <div align="center">
                         ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
                         ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -72,16 +71,24 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
               
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+    </td>
+    <!--td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Language Stats">
+  </td-->
+  </tr>
+</table>
 
 
 ## 🤝 Contributions :
-
 I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
 
 
 ## 🙏 Thanks for Visiting!
-
 Thank you for taking the time to check out my profile. Happy coding!
