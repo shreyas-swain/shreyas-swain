@@ -68,7 +68,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
                   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
               </div>
-<br/><br/><br/>
+<br/><br/>
 
 
 ## 📊 GitHub Stats:
@@ -85,7 +85,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
   </td-->
   </tr>
 </table>
-<br/><br/>
+<br/>
 
 
 ## 🤝 Contributions :
