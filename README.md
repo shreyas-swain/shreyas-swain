@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-## About Me
+# 💫About Me
 
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
 
