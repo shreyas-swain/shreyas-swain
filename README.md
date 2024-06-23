@@ -12,7 +12,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-swain/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241484)
 <!--[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/_shreyas.swain_)-->
-<br/><br/><br/>
+<br/>
 
 
 # 📂 Projects :
