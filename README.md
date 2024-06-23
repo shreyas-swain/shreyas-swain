@@ -18,13 +18,13 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 # 📂 Projects :
 ### Portfolio Website
 A personal portfolio website showcasing my work and skills.
-- **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind
-- **Repository**: 
+- **Tech Stack** :  HTML, CSS, JavaScript, React, Tailwind
+- **Repository** :  [Portfolio Repository]()
 
 ### VoxHive: Real-time Chat Application
 A fully functional social platform made with Next.js, Typescript and Socket.io which enable seamless real-time communication with various features.
-- **Tech Stack**: Next.js, Typescript, Socket.io, React, Postgresql, Shadcn-UI, Tailwind and Prisma
-- **Repository**: [Link to Repository](https://github.com/Shreyas-Swain-10/VoxHive.git)
+- **Tech Stack** :  Next.js, Typescript, Socket.io, React, Postgresql, Shadcn-UI, Tailwind and Prisma
+- **Repository** :  [VoxHive Repository](https://github.com/Shreyas-Swain-10/VoxHive.git)
 <br/><br/><br/>
 
 
