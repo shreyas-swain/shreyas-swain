@@ -76,33 +76,31 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </td>
-    <td style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false" alt="GitHub Streak Stats">
     </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    </td>
     <!--td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Language Stats">
-  </td-->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Language Stats"-->
+  </td>
   </tr>
 </table>
-
-<!--table style="border: none; border-collapse: collapse;">
+<!--table style="border: none; border-collapse: collapse; width: 100%" align="center">
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dark&hide_border=false" alt="GitHub Streak Stats">
     </td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </td>
-    <td style="border: none;">
+    <td style="border: none; width: 70%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Language Stats">
+    </td>
+    <td style="border: none; width: 30%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
   </tr>
 </table-->
-
 <br/>
 
 
