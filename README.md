@@ -2,9 +2,6 @@
 
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
-<!-- >
-My portfolio website :
-<-->
 <br/><br/>
 
 
@@ -14,7 +11,7 @@ My portfolio website :
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyas.swain07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-swain/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241484)
-<br/>
+<br/><br/>
 
 <!-- >
 # 📂 Projects :
@@ -107,8 +104,8 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                       ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
                       ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
                       ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-                   </div-->
-                  <div align="left">
+                   </div--><span style="padding-top: 40px; display: inline-block;">
+                  <!--div align="left"-->
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
                       <img width="12" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
@@ -119,15 +116,16 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                       <img width="12" />
                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="30" alt="prisma logo" />
                       <img width="12" />
-                  </div>
+                  <!--/div-->
+                  </span>
   
 - **Tools**:  <!--div align="center">
                   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
                   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
                   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
                   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-              </div-->
-              <div align="left">
+              </div--><span style="padding-top: 40px; display: inline-block;">
+                  <!--div align="left"-->
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
                   <img width="12" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
@@ -135,7 +133,8 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
                   <img width="12" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="30" alt="framer logo" />
-              </div>
+              <!--/div-->
+                  </span>
 <br/><br/>
 
 
