@@ -60,7 +60,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                         <img width="12" />
                   </span>
 
-- **Frameworks & Libraries** :  <div align="center">
+- **Frameworks & Libraries** :  <!--div align="center">
                                     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
                                     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
                                     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -72,8 +72,8 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                                     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
                                     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
                                     ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-                                </div>
-                                <!--div align="center">
+                                </div--><span style="padding-top: 40px; display: inline-block;">
+                                <!--div align="left"-->
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
@@ -84,19 +84,20 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
                                     <img width="12" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="30" alt="jwt logo" />
+                                    <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="30" alt="jwt logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="30" alt="expo logo" />
-                                    <img width="12" />
+                                    <img width="12" /-->
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
                                     <img width="12" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="30" alt="chakraui logo" />
-                                    <img width="12" />
-                                </div-->
+                                    <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="30" alt="chakraui logo" />
+                                    <img width="12" /-->
+                                <!--/div-->
+                              </span>
   
 - **Databases** :  <!--div align="center">
                       ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
