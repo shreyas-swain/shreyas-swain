@@ -1,6 +1,6 @@
-name: Generate Grid Snake
+name: Generate Datas
 on:
-  schedule:
+  schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
