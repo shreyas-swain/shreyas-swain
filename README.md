@@ -28,8 +28,8 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 <-->
 
 
-# 💻 Tech Stack :
-- **Languages** :  &nbsp;&nbsp;<!--div align="center">
+## 💻 Tech Stack :
+- **Languages** :  &nbsp;&nbsp;&nbsp;<!--div align="center">
                         ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
                         ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
                         ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -60,7 +60,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                         <img width="12" />
                   </span>
 
-- **Frameworks & Libraries** :  <!--div align="center">
+- **Frameworks & Libraries** :  &nbsp;&nbsp;&nbsp;<!--div align="center">
                                     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
                                     ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
                                     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -76,30 +76,28 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                                 <!--div align="left"-->
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
                                     <img width="12" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
-                                    <img width="12" />
+                                    <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react native logo" />
+                                    <img width="12" /-->
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
                                     <img width="12" />
-                                    <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" height="30" alt="jwt logo" />
+                                    <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" height="30" alt="expo logo" />
                                     <img width="12" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="30" alt="expo logo" />
-                                    <img width="12" /-->
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
                                     <img width="12" />
                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" />
                                     <img width="12" />
-                                    <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" height="30" alt="chakraui logo" />
-                                    <img width="12" /-->
+                                    <img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" height="30" alt="chakraui logo" />
+                                    <img width="12" />
                                 <!--/div-->
                               </span>
   
-- **Databases** :  <!--div align="center">
+- **Databases** :  &nbsp;&nbsp;&nbsp;<!--div align="center">
                       ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
                       ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
                       ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -120,7 +118,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   <!--/div-->
                   </span>
   
-- **Tools**:  <!--div align="center">
+- **Tools**:  &nbsp;&nbsp;&nbsp;<!--div align="center">
                   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
                   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
                   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -136,7 +134,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="30" alt="framer logo" />
               <!--/div-->
                   </span>
-<br/><br/>
+<br/><br/><br/>
 
 
 ## 📊 GitHub Stats:
