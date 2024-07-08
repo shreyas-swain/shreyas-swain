@@ -138,6 +138,10 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 
 
 ## 📊 GitHub Stats:
+<div align="center">
+  <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<br/>
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -172,7 +176,6 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 ## 🤝 Contributions :
 I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
 <-->
-![snake gif](https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake.gif)
 
 ## 🙏 Thanks for Visiting!
 Thank you for taking the time to check out my profile. Happy coding!
