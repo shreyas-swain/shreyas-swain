@@ -172,7 +172,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
 ## 🤝 Contributions :
 I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
 <-->
-![Snake Animation](https://raw.githubusercontent.com/Shreyas-Swain-10/Shreyas-Swain-10/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake.gif)
 
 ## 🙏 Thanks for Visiting!
 Thank you for taking the time to check out my profile. Happy coding!
