@@ -13,20 +13,6 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25241484)
 <br/><br/>
 
-<!-- >
-# 📂 Projects :
-### Portfolio Website
-A personal portfolio website showcasing my work and skills.
-- **Tech Stack** :  HTML, CSS, JavaScript, React, Tailwind
-- **Repository** :  [Portfolio Repository]()
-
-### VoxHive: Real-time Chat Application
-A fully functional social platform made with Next.js, Typescript and Socket.io which enable seamless real-time communication with various features.
-- **Tech Stack** :  Next.js, Typescript, Socket.io, React, Postgresql, Shadcn-UI, Tailwind and Prisma
-- **Repository** :  [VoxHive Repository](https://github.com/Shreyas-Swain-10/VoxHive.git)
-<br/><br/><br/>
-<-->
-
 
 ## 💻 Tech Stack :
 - **Languages** :  &nbsp;&nbsp;&nbsp;<!--div align="center">
@@ -131,7 +117,7 @@ A fully functional social platform made with Next.js, Typescript and Socket.io w
                   <img width="12" />
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
                   <img width="12" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="30" alt="framer logo" />
+                  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="30" alt="framer logo" />
               <!--/div-->
                   </span>
 <br/><br/><br/>
