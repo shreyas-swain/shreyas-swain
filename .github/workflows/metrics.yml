@@ -3,6 +3,7 @@ name: Metrics
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every Sunday
+  workflow_dispatch:
   push:
     branches:
       - master
