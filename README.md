@@ -123,6 +123,8 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 </table>
 <br/>
 
+<!--![Metrics](https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/master/github-metrics.svg)>
+
 <!-- >
 ## 🤝 Contributions :
 I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
