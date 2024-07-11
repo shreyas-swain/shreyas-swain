@@ -110,6 +110,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
+      <img src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg">
     </td>
   </tr>
   <tr style="border: none;">
@@ -123,7 +124,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 </table>
 <br/>
 
-<!--![Metrics](https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/master/github-metrics.svg)>
+![Metrics](https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg)
 
 <!-- >
 ## 🤝 Contributions :
