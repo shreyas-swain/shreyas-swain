@@ -1,8 +1,3 @@
-<style>
-  td, th {
-     border: none!important;
-  }
-</style>
 
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
@@ -99,39 +94,10 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
   <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
-<div align="center">
+<!--div align="center">
   <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
-</div>
-
-<!--table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;" align="center">
-      <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
-    </td>
-    <td style="border: none;" align="center">
-      <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
-    </td>
-  </tr>
-</table-->
-
-
-
-
-
+</div-->
 <br/>
-<!--table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
-    </td>
-    <!--td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Language Stats">
-  </td>
-  </tr>
-</table-->
 <table style="border: none; border-collapse: collapse; width: 100%" align="center">
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
@@ -149,11 +115,6 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 </table>
 <br/>
 
-
-<!-- >
-## 🤝 Contributions :
-I’m always open to collaborating on interesting projects and contributing to open source. If you have an idea or need help with a project, don’t hesitate to contact me.
-<-->
 
 ## 🙏 Thanks for Visiting!
 Thank you for taking the time to check out my profile. Happy coding!
