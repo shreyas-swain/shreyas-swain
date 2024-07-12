@@ -90,14 +90,6 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<br/>
-<!--div align="center">
-  <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
-</div-->
-<br/>
 <table style="border: none; border-collapse: collapse; width: 100%" align="center">
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
@@ -113,6 +105,13 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
     </td>
   </tr>
 </table>
+<div align="center">
+  <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<br/>
+<!--div align="center">
+  <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
+</div-->
 <br/>
 
 
