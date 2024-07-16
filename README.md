@@ -109,9 +109,9 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
   <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
-<!--div align="center">
+<div align="center">
   <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
-</div-->
+</div>
 <br/>
 
 
