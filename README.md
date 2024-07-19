@@ -111,8 +111,8 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 <br/>
 <!--div align="center">
   <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
-</div-->
-<br/>
+</div>
+<br/-->
 
 
 ## 🙏 Thanks for Visiting!
