@@ -2,8 +2,8 @@
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-drive&logoColor=white)]() 
-[![Resume](https://img.shields.io/badge/Resume-green?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1W8w2wRFUcZk_FCjG-ApUhzMnFSEe36bO/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=google-drive&logoColor=white)]() 
+[![Resume](https://img.shields.io/badge/Resume-purple?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1W8w2wRFUcZk_FCjG-ApUhzMnFSEe36bO/view?usp=drive_link)
 <br/><br/>
 
 
