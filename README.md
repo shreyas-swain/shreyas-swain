@@ -4,7 +4,6 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkviolet?style=for-the-badge&logo=google-drive&logoColor=white)]() &nbsp;
 [![Resume](https://img.shields.io/badge/Resume-forestgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1W8w2wRFUcZk_FCjG-ApUhzMnFSEe36bO/view?usp=drive_link)
-
 <br/><br/>
 
 
