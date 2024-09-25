@@ -3,7 +3,7 @@
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
 
 <!--p>[![Portfolio](https://img.shields.io/badge/Portfolio-darkviolet?style=for-the-badge&logo=google-drive&logoColor=white)]() &nbsp;<p-->
-[![Resume](https://img.shields.io/badge/Resume-forestgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10z7WTYRhtIDre8JFyxIXgiG9eu48JEY0/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-forestgreen?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/10z7WTYRhtIDre8JFyxIXgiG9eu48JEY0/view?usp=sharing](https://drive.google.com/file/d/1to-R2kQ7rsp-22lYUawxtTVqehbm4bPI/view?usp=sharing))
 <br/><br/>
 
 
