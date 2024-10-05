@@ -93,12 +93,12 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 <table style="border: none; border-collapse: collapse; width: 100%" align="center">
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-Swain-10&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-swain&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; width: 70%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Swain-10&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Language Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-swain&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Language Stats">
     </td>
     <td style="border: none; width: 30%">
       <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
@@ -113,7 +113,6 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
   <img alt="github-metrics" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/main/github-metrics.svg" />
 </div>
 <br/-->
-
 
 ## 🙏 Thanks for Visiting!
 Thank you for taking the time to check out my profile. Happy coding!
