@@ -101,12 +101,12 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-swain&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Language Stats">
     </td>
     <td style="border: none; width: 30%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-Swain-10&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shreyas-wain&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     </td>
   </tr>
 </table>
 <div align="center">
-  <img alt="github-snake" src="https://github.com/Shreyas-Swain-10/Shreyas-Swain-10/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/shreyas-swain/shreyas-swain/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <br/>
 <!--div align="center">
