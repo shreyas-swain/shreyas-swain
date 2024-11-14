@@ -2,7 +2,7 @@
 # 💫 About Me :
 Hello! I'm a passionate web developer with a knack for creating dynamic and responsive web applications. I enjoy exploring new technologies and continuously improving my coding skills. Check out my projects to see what I've been working on!
 
-[![Resume](https://img.shields.io/badge/Resume-forestgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oqju9CgtG2_jjNNY8k2budusDJVpanf7/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-forestgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1zgaRAq1f6fq9_Iq6VITpkwke_5q7cAgA/view?usp=drive_link)
 <br/><br/>
 
 
