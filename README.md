@@ -93,7 +93,7 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 <table style="border: none; border-collapse: collapse; width: 100%" align="center">
   <tr style="border: none;">
     <td style="border: none;" colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-swain&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreyas-swain&theme=dracula" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr style="border: none;">
