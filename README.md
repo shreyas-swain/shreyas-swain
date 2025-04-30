@@ -114,5 +114,5 @@ Hello! I'm a passionate web developer with a knack for creating dynamic and resp
 </div>
 <br/-->
 
-## 🙏 Thanks for Visiting!
+## Thanks for Visiting!
 Thank you for taking the time to check out my profile. Happy coding!
